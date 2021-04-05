@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MyYearInQuarantine/static/css/main.9608404f.chunk.css",
-    "main.js": "/MyYearInQuarantine/static/js/main.32d4371a.chunk.js",
-    "main.js.map": "/MyYearInQuarantine/static/js/main.32d4371a.chunk.js.map",
-    "runtime-main.js": "/MyYearInQuarantine/static/js/runtime-main.51f32242.js",
-    "runtime-main.js.map": "/MyYearInQuarantine/static/js/runtime-main.51f32242.js.map",
+    "main.css": "/MyYearInQuarantine/static/css/main.0b5e0a63.chunk.css",
+    "main.js": "/MyYearInQuarantine/static/js/main.3a827d4a.chunk.js",
+    "main.js.map": "/MyYearInQuarantine/static/js/main.3a827d4a.chunk.js.map",
+    "runtime-main.js": "/MyYearInQuarantine/static/js/runtime-main.4a20300c.js",
+    "runtime-main.js.map": "/MyYearInQuarantine/static/js/runtime-main.4a20300c.js.map",
     "static/css/2.cc77c331.chunk.css": "/MyYearInQuarantine/static/css/2.cc77c331.chunk.css",
-    "static/js/2.6ed81b52.chunk.js": "/MyYearInQuarantine/static/js/2.6ed81b52.chunk.js",
-    "static/js/2.6ed81b52.chunk.js.map": "/MyYearInQuarantine/static/js/2.6ed81b52.chunk.js.map",
-    "static/js/3.644fe599.chunk.js": "/MyYearInQuarantine/static/js/3.644fe599.chunk.js",
-    "static/js/3.644fe599.chunk.js.map": "/MyYearInQuarantine/static/js/3.644fe599.chunk.js.map",
+    "static/js/2.9dc11b9b.chunk.js": "/MyYearInQuarantine/static/js/2.9dc11b9b.chunk.js",
+    "static/js/2.9dc11b9b.chunk.js.map": "/MyYearInQuarantine/static/js/2.9dc11b9b.chunk.js.map",
+    "static/js/3.aa345d59.chunk.js": "/MyYearInQuarantine/static/js/3.aa345d59.chunk.js",
+    "static/js/3.aa345d59.chunk.js.map": "/MyYearInQuarantine/static/js/3.aa345d59.chunk.js.map",
     "index.html": "/MyYearInQuarantine/index.html",
     "static/css/2.cc77c331.chunk.css.map": "/MyYearInQuarantine/static/css/2.cc77c331.chunk.css.map",
-    "static/css/main.9608404f.chunk.css.map": "/MyYearInQuarantine/static/css/main.9608404f.chunk.css.map",
-    "static/js/2.6ed81b52.chunk.js.LICENSE.txt": "/MyYearInQuarantine/static/js/2.6ed81b52.chunk.js.LICENSE.txt"
+    "static/css/main.0b5e0a63.chunk.css.map": "/MyYearInQuarantine/static/css/main.0b5e0a63.chunk.css.map",
+    "static/js/2.9dc11b9b.chunk.js.LICENSE.txt": "/MyYearInQuarantine/static/js/2.9dc11b9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51f32242.js",
+    "static/js/runtime-main.4a20300c.js",
     "static/css/2.cc77c331.chunk.css",
-    "static/js/2.6ed81b52.chunk.js",
-    "static/css/main.9608404f.chunk.css",
-    "static/js/main.32d4371a.chunk.js"
+    "static/js/2.9dc11b9b.chunk.js",
+    "static/css/main.0b5e0a63.chunk.css",
+    "static/js/main.3a827d4a.chunk.js"
   ]
 }
